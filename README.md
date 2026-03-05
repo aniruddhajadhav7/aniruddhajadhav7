@@ -5,7 +5,9 @@
   <img src="https://img.shields.io/badge/Focus-Automation%20%26%20Infrastructure-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-success?style=flat-square" />
 </p>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aniruddhajadhav7&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 ---
 
 # 👨‍💻 About Me
