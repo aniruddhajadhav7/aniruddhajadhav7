@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Aniruddha Adhikrao Jadhav
 
-<!--
-**aniruddhajadhav7/aniruddhajadhav7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineer | DevOps | Cloud Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- DevOps & Cloud Enthusiast
+- Learning Kubernetes, Terraform and AWS
+- Interested in Automation & Infrastructure
+- Pursuing DCA , CKA , AWS Associate Certifications
+
+---
+
+## Tech Stack
+
+DevOps
+Linux | Docker | Kubernetes | Terraform | CI/CD | Iac
+
+Languages
+Python | Go | Bash | JS,TS | Rust 
+
+Cloud
+AWS | Azure
+
+---
+
+## Featured Projects
+MAIN DOMAIN PROJECTS (DevOps & Infrastructure)
+- DevOps Mega Project
+- CI/CD Pipeline Project
+- Terraform AWS Infrastructure
+- DevOps Automation Toolkit
+
+FUN PROJECTS FOR PRACTICE 
+- Terminal Meme Soundboard
+- Student Task Manager
+
+---
+
+## Connect
+Email
+aniruddha.jadhav7@icloud.com
+LinkedIn
+www.linkedin.com/in/aniruddhajadhav7
