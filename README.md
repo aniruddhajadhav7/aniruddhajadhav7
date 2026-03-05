@@ -8,19 +8,23 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am a **Computer Engineer** focused on building scalable infrastructure, automated deployment pipelines, and reliable cloud systems.
+I am a **Computer Engineer focused on DevOps, Cloud Infrastructure, and Automation**.
 
-My work sits at the intersection of **development, operations, and automation**.
+My work revolves around building **reliable systems, automated deployment pipelines, and scalable cloud infrastructure**.
+
+I enjoy working where **development meets operations** — designing systems that deploy themselves and scale without chaos.
 
 - 🎓 **B.Tech Computer Engineering Graduate**
 - ⚙️ Learning **Kubernetes, Terraform, AWS & Cloud Infrastructure**
 - 🔁 Passionate about **CI/CD, Infrastructure as Code, and Automation**
-- 📜 Certifications in progress:
-  - Docker Certified Associate (DCA)
-  - Certified Kubernetes Administrator (CKA)
-  - AWS Solutions Architect Associate
+
+📜 **Certifications in progress**
+
+- Docker Certified Associate (DCA)
+- Certified Kubernetes Administrator (CKA)
+- AWS Solutions Architect Associate
 
 ---
 
@@ -53,32 +57,52 @@ My work sits at the intersection of **development, operations, and automation**.
 
 ---
 
-# 🚀 Main Domain Projects (DevOps & Infrastructure)
+# 🚀 DevOps & Infrastructure Projects
 
 | Project | Description | Tech |
 |------|-------------|------|
-| **DevOps Mega Project** | Full production-grade DevOps pipeline deploying microservices to Kubernetes | Kubernetes, Helm, Terraform |
-| **CI/CD Pipeline Demo** | Automated CI/CD pipeline with build, test, and deploy stages | GitHub Actions, Docker |
-| **AWS Infrastructure IaC** | Infrastructure provisioning using Terraform with VPC, EC2 and S3 | Terraform, AWS |
-| **DevOps Automation Toolkit** | Automation scripts for deployment, monitoring and server management | Python, Bash |
+| DevOps Production Platform | Full production-grade DevOps system deploying microservices to Kubernetes | Kubernetes, Helm, Terraform |
+| CI/CD Pipeline Demo | Automated pipeline with build, test, and deployment stages | GitHub Actions, Docker |
+| AWS Infrastructure IaC | Infrastructure provisioning with Terraform including VPC, EC2 and S3 | Terraform, AWS |
+| DevOps Automation Toolkit | Automation scripts for deployment, monitoring and system management | Python, Bash |
 
 ---
 
-# 🎯 Fun Projects
+# 🎨 Creative & Experimental Projects
 
 | Project | Description |
 |------|-------------|
-| **Terminal Meme Soundboard** | VS Code extension that plays custom sounds on command execution |
-| **Student Task Manager** | Django + REST API productivity app with ML priority suggestions |
+| Terminal Meme Soundboard | VS Code extension that plays custom sounds on command success or error |
+| Student Task Manager | Django + REST API productivity app with ML-based task prioritization |
+
+---
+
+# 📁 Repository Structure
+
+```text
+aniruddhajadhav7
+│
+├── DevOps & Platform
+│   ├── devops-production-platform
+│   ├── cicd-pipeline-demo
+│   └── terraform-aws-infrastructure
+│
+├── Automation & Tools
+│   └── devops-automation-scripts
+│
+└── Fun & Creative Projects
+    ├── student-task-manager
+    └── terminal-meme-soundboard
+```
 
 ---
 
 # 📂 Key Repositories
 
-- cicd-pipeline-demo
-- student-task-manager
-- terminal-meme-soundboard
-- devops-mega-project (coming soon)
+- https://github.com/aniruddhajadhav7/devops-production-platform
+- https://github.com/aniruddhajadhav7/cicd-pipeline-demo
+- https://github.com/aniruddhajadhav7/terraform-aws-infrastructure
+- https://github.com/aniruddhajadhav7/devops-automation-scripts
 
 ---
 
@@ -98,7 +122,7 @@ My work sits at the intersection of **development, operations, and automation**.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniruddhajadhav7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
