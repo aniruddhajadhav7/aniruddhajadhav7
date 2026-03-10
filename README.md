@@ -18,9 +18,9 @@ My work revolves around building **reliable systems, automated deployment pipeli
 
 I enjoy working where **development meets operations** — designing systems that deploy themselves and scale without chaos.
 
-- 🎓 **B.Tech Computer Engineering Graduate**
-- ⚙️ Learning **Kubernetes, Terraform, AWS & Cloud Infrastructure**
-- 🔁 Passionate about **CI/CD, Infrastructure as Code, and Automation**
+- **B.Tech Computer Engineering Graduate**
+-  Learning **Kubernetes, Terraform, AWS & Cloud Infrastructure**
+-  Passionate about **CI/CD, Infrastructure as Code, and Automation**
 
  **Certifications in progress**
 
@@ -30,9 +30,9 @@ I enjoy working where **development meets operations** — designing systems tha
 
 ---
 
-# ⚙️ Tech Stack
+#  Tech Stack
 
-## 🛠 DevOps & Infrastructure
+##  DevOps & Infrastructure
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -43,7 +43,7 @@ I enjoy working where **development meets operations** — designing systems tha
 
 ---
 
-## 💻 Programming
+##  Programming
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -52,14 +52,14 @@ I enjoy working where **development meets operations** — designing systems tha
 
 ---
 
-## ☁️ Cloud Platforms
+##  Cloud Platforms
 
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
-# 🚀 DevOps & Infrastructure Projects
+#  DevOps & Infrastructure Projects
 
 | Project | Description | Tech |
 |------|-------------|------|
