@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aniruddha Adhikrao Jadhav
+# Hi , I'm Aniruddha Adhikrao Jadhav
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-DevOps%20%26%20Cloud%20Engineer-blue?style=flat-square" />
@@ -10,7 +10,7 @@
 </p>
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 I am a **Computer Engineer focused on DevOps, Cloud Infrastructure, and Automation**.
 
@@ -22,7 +22,7 @@ I enjoy working where **development meets operations** — designing systems tha
 - ⚙️ Learning **Kubernetes, Terraform, AWS & Cloud Infrastructure**
 - 🔁 Passionate about **CI/CD, Infrastructure as Code, and Automation**
 
-📜 **Certifications in progress**
+ **Certifications in progress**
 
 - Docker Certified Associate (DCA)
 - Certified Kubernetes Administrator (CKA)
@@ -70,7 +70,7 @@ I enjoy working where **development meets operations** — designing systems tha
 
 ---
 
-# 🎨 Creative & Experimental Projects
+#  Creative & Experimental Projects
 
 | Project | Description |
 |------|-------------|
@@ -79,7 +79,7 @@ I enjoy working where **development meets operations** — designing systems tha
 
 ---
 
-# 📁 Repository Structure
+#  Repository Structure
 
 ```text
 aniruddhajadhav7
@@ -99,7 +99,7 @@ aniruddhajadhav7
 
 ---
 
-# 📂 Key Repositories
+#  Key Repositories
 
 - https://github.com/aniruddhajadhav7/DevOps-mega-production-project
 - https://github.com/aniruddhajadhav7/cicd-pipeline-demo
@@ -108,7 +108,7 @@ aniruddhajadhav7
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="left">
 
@@ -124,7 +124,7 @@ aniruddhajadhav7
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniruddhajadhav7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
