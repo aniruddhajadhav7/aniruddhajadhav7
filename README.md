@@ -23,8 +23,7 @@ I enjoy working where **development meets operations** — designing systems tha
 -  Passionate about **CI/CD, Infrastructure as Code, and Automation**
 
  **Certifications in progress**
-
-- Docker Certified Associate (DCA)
+ 
 - Certified Kubernetes Administrator (CKA)
 - AWS Solutions Architect Associate
 
