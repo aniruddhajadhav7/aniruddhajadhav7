@@ -99,7 +99,6 @@ aniruddhajadhav7
 
 #  Key Repositories
 
-- https://github.com/aniruddhajadhav7/DevOps-mega-production-project
 - https://github.com/aniruddhajadhav7/Z-gen
 - https://github.com/aniruddhajadhav7/terminal-meme-soundboard
 - https://github.com/aniruddhajadhav7/devops-automation-toolkit
