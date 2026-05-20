@@ -53,7 +53,7 @@ I enjoy working where **development meets operations** — designing systems tha
 ##  Cloud Platforms
 
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://shields.io)
 
 ---
 
