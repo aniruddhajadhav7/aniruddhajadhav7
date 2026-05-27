@@ -12,7 +12,7 @@
 
 #  About Me
 
-I am a **Computer Engineer focused on DevOps, Cloud Infrastructure, and Automation**.
+I am a **Computer Engineer focused on SDE, DevOps, Cloud Infrastructure, and Automation**.
 
 My work revolves around building **reliable systems, automated deployment pipelines, and scalable cloud infrastructure**.
 
