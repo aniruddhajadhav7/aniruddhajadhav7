@@ -19,8 +19,8 @@ My work revolves around building **reliable systems, automated deployment pipeli
 I enjoy working where **development meets operations** — designing systems that deploy themselves and scale without chaos.
 
 - ** Computer Engineering Graduate 2025**
--  Learning **Kubernetes, Terraform, AWS & Cloud Infrastructure**
--  Passionate about **CI/CD, Infrastructure as Code, and Automation**
+-  Continuous Learning in **Kubernetes, Terraform, AWS & Cloud Infrastructure**
+-  Knowledge about **CI/CD, Infrastructure as Code, and Automation**
 
  **Certifications in progress**
  
