@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Role-SDE-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Role-DevOps%20%26%20Cloud%20Engineer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Automation%20%26%20Infrastructure-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-DSA-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-success?style=flat-square" />
 </p>
 <p align="left">
