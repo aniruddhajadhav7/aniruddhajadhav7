@@ -21,9 +21,10 @@ My work revolves around building **reliable systems, automated deployment pipeli
 I enjoy working where **development meets operations** — designing systems that deploy themselves and scale without chaos.
 
 - ** Computer Engineering Graduate 2025**
--  Learning and Developing Secure & Scalable **Software Systems**  
+-  Building & Breaking | Developing Secure & Scalable **Software Systems**
 -  Continuous Learning in **Kubernetes, Terraform, AWS & Cloud Infrastructure**
 -  Knowledge about **CI/CD, Infrastructure as Code, and Automation**
+-  Continuous Learning in **MLOps(Inference Optimization) and LLMOps(LoRA, QLoRA),Vector Databases**
 
  **Certifications in progress**
  
