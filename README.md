@@ -24,7 +24,7 @@ I enjoy working where **development meets operations** — designing systems tha
 -  Building & Breaking | Developing Secure & Scalable **Software Systems**
 -  Continuous Learning in **Kubernetes, Terraform, AWS & Cloud Infrastructure**
 -  Knowledge about **CI/CD, Infrastructure as Code, and Automation**
--  Continuous Learning in **MLOps(Inference Optimization) and LLMOps(LoRA, QLoRA),Vector Databases**
+-  Continuous Learning in **MLOps(Inference Optimization) and LLMOps(LoRA, QLoRA),Vector Databases, MLFlow, Kubeflow**
 
  **Certifications in progress**
  
