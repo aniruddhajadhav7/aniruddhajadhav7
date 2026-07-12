@@ -106,6 +106,7 @@ aniruddhajadhav7
 
 - https://github.com/aniruddhajadhav7/Z-gen
 - https://github.com/aniruddhajadhav7/cloud-lint
+- https://github.com/aniruddhajadhav7/ZenithRank
 - https://github.com/aniruddhajadhav7/devops-automation-toolkit
 
 ---
