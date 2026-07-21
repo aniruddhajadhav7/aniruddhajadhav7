@@ -66,7 +66,7 @@ I enjoy working where **development meets operations** — designing systems tha
 | Project | Description | Tech |
 |------|-------------|------|
 | Z-gen | Full production-grade 3-tier DevsecOps project  | Kubernetes, Node.js, Terraform |
-| ZenithRank| Automated pipeline with build, test, and deployment stages | GitHub Actions, Docker |
+| ZenithRank| An ultra-fast, offline, CPU-bound semantic search and talent ranking engine | Python,jinja2 |
 | Cloud-lint | Infrastructure provisioning with Terraform including VPC, EC2 and S3 | Terraform, AWS |
 | DevOps Automation Toolkit | Automation scripts for deployment, monitoring and system management | Python, Bash |
 
