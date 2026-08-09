@@ -42,7 +42,7 @@ I'm particularly interested in understanding and building the infrastructure beh
 
 **Infrastructure:** Linux · Docker · Kubernetes · Terraform · CI/CD
 
-**Cloud:** AWS
+**Cloud:** AWS · GCP
 
 **Programming:** Python · Go
 
