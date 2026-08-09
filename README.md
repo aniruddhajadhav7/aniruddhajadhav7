@@ -21,7 +21,7 @@ My work revolves around **software development, cloud infrastructure, DevOps, di
 
 I enjoy working at the intersection of development and infrastructure — building systems that are reliable, automated, scalable, and designed to operate efficiently in production.
 
-I continuously learn and build across **Kubernetes, Terraform, AWS, cloud infrastructure, distributed systems, MLOps, LLMOps, AI infrastructure, and Blockchain infrastructure**, gradually developing deeper expertise across these areas.
+I continuously learn and build across **Kubernetes, Terraform, AWS, cloud infrastructure, distributed systems, AI infrastructure, and Blockchain infrastructure**, gradually developing deeper expertise across these areas.
 
 I'm particularly interested in understanding and building the infrastructure behind **large-scale, distributed, and intelligent systems**.
 
