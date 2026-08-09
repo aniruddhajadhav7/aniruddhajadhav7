@@ -1,122 +1,132 @@
-# Hi , I'm Aniruddha Adhikrao Jadhav
+# Hi, I'm Aniruddha Adhikrao Jadhav
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Role-SDE-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Role-DevOps%20%26%20Cloud%20Engineer-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Automation%20%26%20Infrastructure-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-DSA-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Infrastructure-Kubernetes%20%7C%20Terraform-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-CI%2FCD%20%7C%20Automation-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Exploring-AI%20%7C%20Blockchain-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-success?style=flat-square" />
 </p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aniruddhajadhav7&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
----
-
-#  About Me
-
-Result Oriented **Computer Engineer focused on SDE, DevOps, Cloud Infrastructure, and Automation**.
-
-My work revolves around building **reliable systems, automated deployment pipelines, and scalable cloud infrastructure**.
-
-I enjoy working where **development meets operations** — designing systems that deploy themselves and scale without chaos.
-
-- ** Computer Engineering Graduate 2025**
--  Building & Breaking | Developing Secure & Scalable **Software Systems**
--  Continuous Learning in **Kubernetes, Terraform, AWS & Cloud Infrastructure**
--  Knowledge about **CI/CD, Infrastructure as Code, and Automation**
--  Continuous Learning in **MLOps(Inference Optimization) and LLMOps(LoRA, QLoRA),Vector Databases, MLFlow, Kubeflow**
-
- **Certifications in progress**
- 
-- Certified Kubernetes Administrator (CKA)
-- AWS Solutions Architect Associate
 
 ---
 
-#  Tech Stack
+# About Me
 
-##  DevOps & Infrastructure
+Result-oriented **Computer Engineer and Software Engineer** interested in building reliable, scalable, and production-ready software systems.
+
+My work revolves around **software development, cloud infrastructure, DevOps, distributed systems, and automation**.
+
+I enjoy working at the intersection of development and infrastructure — building systems that are reliable, automated, scalable, and designed to operate efficiently in production.
+
+I continuously learn and build across **Kubernetes, Terraform, AWS, cloud infrastructure, distributed systems, MLOps, LLMOps, AI infrastructure, and Blockchain infrastructure**, gradually developing deeper expertise across these areas.
+
+I'm particularly interested in understanding and building the infrastructure behind **large-scale, distributed, and intelligent systems**.
+
+- **Computer Engineering Graduate — 2025**
+- Building & Breaking | Developing Secure & Scalable Software Systems
+- Continuous learning in **Cloud, DevOps, Kubernetes, Terraform & Infrastructure**
+- Exploring **Distributed Systems, AI Infrastructure & Blockchain Infrastructure**
+- Learning **MLOps & LLMOps**, including inference optimization, model serving, MLflow and Kubeflow
+- Exploring **Blockchain + AI**, decentralized systems, and distributed compute
+
+### Certifications in Progress
+
+- **Certified Kubernetes Administrator (CKA)**
+- **AWS Solutions Architect – Associate**
+
+---
+
+# Tech Stack
+
+## DevOps & Infrastructure
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-##  Programming
+## Programming
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-##  Cloud Platforms
-
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
-#  DevOps & Infrastructure Projects
+## Cloud Platforms
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+---
+
+## AI & ML Infrastructure
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-003366?style=for-the-badge&logo=kubeflow&logoColor=white)
+
+Currently learning and building with:
+
+- **MLOps & LLMOps**
+- **Model Serving & Inference**
+- **Inference Optimization**
+- **GPU Infrastructure**
+- **Vector Databases**
+- **Distributed AI Systems**
+
+---
+
+## Blockchain & Distributed Systems
+
+Currently learning and exploring:
+
+- **Blockchain Infrastructure**
+- **Blockchain Nodes & RPC**
+- **Distributed Ledger Technology**
+- **P2P Networking**
+- **Consensus & Distributed Systems**
+- **Blockchain Security**
+- **Cryptography**
+- **Decentralized Compute**
+- **Blockchain + AI**
+
+---
+
+# DevOps & Infrastructure Projects
 
 | Project | Description | Tech |
 |------|-------------|------|
-| Z-gen | Full production-grade 3-tier DevsecOps project  | Kubernetes, Node.js, Terraform |
-| ZenithRank| An ultra-fast, offline, CPU-bound semantic search and talent ranking engine | Python,ujson, Scickit-learn, numpy |
-| Cloud-lint | offline CLI developer tool designed to validate, explain, and visualize your cloud-init configurations before they are deployed to a virtual machin | Python,jinja2|
-| DevOps Automation Toolkit | Automation scripts for deployment, monitoring and system management | Python, Bash |
+| **Z-gen** | Full production-grade 3-tier DevSecOps project | Kubernetes, Node.js, Terraform |
+| **ZenithRank** | Ultra-fast, offline, CPU-bound semantic search and talent ranking engine | Python, ujson, scikit-learn, NumPy |
+| **Cloud-lint** | Offline CLI developer tool designed to validate, explain, and visualize cloud-init configurations before deployment | Python, Jinja2 |
+| **DevOps Automation Toolkit** | Automation scripts for deployment, monitoring, and system management | Python, Bash |
 
 ---
 
-#  Creative & Experimental Projects
+# Key Repositories
 
-| Project | Description |
-|------|-------------|
-| Terminal Meme Soundboard | VS Code extension that plays custom sounds on command success or error |
-| Student Task Manager | Django + REST API productivity app with ML-based task prioritization |
-
----
-
-#  Repository Structure
-
-```text
-aniruddhajadhav7
-│
-├── DevOps & Platform
-│   ├── devops-production-platform
-│   ├── cicd-pipeline-demo
-│   └── terraform-aws-infrastructure
-│
-├── Automation & Tools
-│   └── devops-automation-scripts
-│
-└── Fun & Creative Projects
-    ├── student-task-manager
-    └── terminal-meme-soundboard
-```
+- [Z-gen](https://github.com/aniruddhajadhav7/Z-gen)
+- [cloud-lint](https://github.com/aniruddhajadhav7/cloud-lint)
+- [ZenithRank](https://github.com/aniruddhajadhav7/ZenithRank)
+- [DevOps Automation Toolkit](https://github.com/aniruddhajadhav7/devops-automation-toolkit)
 
 ---
 
-#  Key Repositories
-
-
-- https://github.com/aniruddhajadhav7/Z-gen
-- https://github.com/aniruddhajadhav7/cloud-lint
-- https://github.com/aniruddhajadhav7/ZenithRank
-- https://github.com/aniruddhajadhav7/devops-automation-toolkit
-
----
-
-#  Connect With Me
+# Connect With Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/aniruddhajadhav7">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:aniruddha.jadhav7@icloud.com">
@@ -127,8 +137,9 @@ aniruddhajadhav7
 
 ---
 
-#  GitHub Stats
+# GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniruddhajadhav7&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhajadhav7&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniruddhajadhav7&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhajadhav7&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
