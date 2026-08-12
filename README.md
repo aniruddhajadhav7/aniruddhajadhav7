@@ -57,7 +57,7 @@ I'm particularly interested in understanding and building the infrastructure beh
 | **Z-gen** | Full production-grade 3-tier DevSecOps project | Kubernetes, Node.js, Terraform |
 | **ZenithRank** | Ultra-fast, offline, CPU-bound semantic search and talent ranking engine | Python, ujson, scikit-learn, NumPy |
 | **Cloud-lint** | Offline CLI developer tool designed to validate, explain, and visualize cloud-init configurations before deployment | Python, Jinja2 |
-| **DevOps Automation Toolkit** | Automation scripts for deployment, monitoring, and system management | Python, Bash |
+| **PyFlow** | | Python, Bash |
 
 ---
 
@@ -66,7 +66,7 @@ I'm particularly interested in understanding and building the infrastructure beh
 - [Z-gen](https://github.com/aniruddhajadhav7/Z-gen)
 - [cloud-lint](https://github.com/aniruddhajadhav7/cloud-lint)
 - [ZenithRank](https://github.com/aniruddhajadhav7/ZenithRank)
-- [PyFlow](https://github.com/aniruddhajadhav7/devops-automation-toolkit)
+- [PyFlow](https://github.com/aniruddhajadhav7/PyFlow)
 
 ---
 
