@@ -57,7 +57,7 @@ I'm particularly interested in understanding and building the infrastructure beh
 | **Z-gen** | Full production-grade 3-tier DevSecOps project | Kubernetes, Node.js, Terraform |
 | **ZenithRank** | Ultra-fast, offline, CPU-bound semantic search and talent ranking engine | Python, ujson, scikit-learn, NumPy |
 | **Cloud-lint** | Offline CLI developer tool designed to validate, explain, and visualize cloud-init configurations before deployment | Python, Jinja2 |
-| **PyFlow** | | Python, Bash |
+| **PyFlow** | | Python, Docker, FastAPI, Javascript, Redis |
 
 ---
 
