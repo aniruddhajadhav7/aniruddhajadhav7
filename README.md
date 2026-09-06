@@ -86,9 +86,4 @@ I'm particularly interested in understanding and building the infrastructure beh
 
 ---
 
-# GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniruddhajadhav7&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhajadhav7&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
