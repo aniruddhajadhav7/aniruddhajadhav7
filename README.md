@@ -15,7 +15,7 @@
 
 # About Me
 
-Result-oriented **Computer Engineer and Software Engineer** interested in building reliable, scalable, and production-ready software systems.
+**Computer Engineer and Software Engineer** interested in building reliable, scalable, and production-ready software systems.
 
 My work revolves around **software development, cloud infrastructure, DevOps, distributed systems, and automation**.
 
@@ -44,7 +44,7 @@ I'm particularly interested in understanding and building the infrastructure beh
 
 **Cloud:** AWS · GCP
 
-**Programming:** Python · Go
+**Programming:** Python · Go 
 
 **Exploring:** Blockchain Infrastructure · Distributed Systems · Decentralized AI
 
