@@ -44,7 +44,7 @@ I'm particularly interested in understanding and building the infrastructure beh
 
 **Cloud:** AWS · GCP
 
-**Programming:** Python · Go 
+**Programming:** Python · Go · C++
 
 **Exploring:** Blockchain Infrastructure · Distributed Systems · Decentralized AI
 
