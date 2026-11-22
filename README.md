@@ -15,7 +15,7 @@ Hi, I'm Aniruddha Jadhav
 
 # About Me
 
-**Computer Engineer and Software Engineer** interested in building reliable, scalable, and production-ready software systems.
+**Computer Engineer ** interested in building reliable, scalable, and production-ready software systems.
 
 My work revolves around **software development, cloud infrastructure, DevOps, distributed systems, and automation**.
 
