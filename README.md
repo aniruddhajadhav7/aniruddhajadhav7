@@ -17,7 +17,7 @@
 
 **Computer Engineer** leveraging AI-augmented workflows to architect, automate, and ship reliable, scalable, and production-ready systems across software development and cloud infrastructure.
 
-Continuously deepening expertise across **Kubernetes, Terraform, AWS, distributed systems, AI infrastructure, and blockchain infrastructure** to engineer resilient, automated backends for large-scale workloads.
+Continuously deepening expertise across **Kubernetes, cloud Native technologies, distributed systems, AI and blockchain infrastructure** to engineer resilient, automated backends for large-scale workloads.
 
 - **Background:** B.Tech in Computer Engineering · Pune, India
 - **Core Focus:** Cloud-native infrastructure, CI/CD automation, and distributed systems
