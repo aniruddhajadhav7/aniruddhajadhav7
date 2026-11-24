@@ -1,70 +1,50 @@
-Hi, I'm Aniruddha Jadhav
+# Hi, I'm Aniruddha Jadhav
 
 <p align="left">
-<img src="https://img.shields.io/badge/Role-Software%20Engineer-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/DevOps-CI%2FCD%20%7C%20Automation-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Exploring-AI%20%7C%20Blockchain-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-blue?style=flat-square" alt="Role: Software Engineer" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-blue?style=flat-square" alt="Cloud: AWS | GCP" />
+  <img src="https://img.shields.io/badge/DevOps-CI%2FCD%20%7C%20Automation-orange?style=flat-square" alt="DevOps: CI/CD | Automation" />
+  <img src="https://img.shields.io/badge/Exploring-AI%20%7C%20Blockchain-orange?style=flat-square" alt="Exploring: AI | Blockchain" />
 </p>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=aniruddhajadhav7&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=aniruddhajadhav7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-# About Me
+## About Me
 
-**Computer Engineer ** interested in building reliable, scalable, and production-ready software systems.
+**Computer Engineer** focused on building reliable, scalable, and production-ready software systems at the intersection of software development, cloud infrastructure, and automation.
 
-My work revolves around **software development, cloud infrastructure, DevOps, distributed systems, and automation**.
+Continuously deepening expertise across **Kubernetes, Terraform, AWS, distributed systems, AI infrastructure, and blockchain infrastructure** to engineer resilient, automated backends for large-scale workloads.
 
-I enjoy working at the intersection of development and infrastructure — building systems that are reliable, automated, scalable, and designed to operate efficiently in production.
-
-continuously learning and building across **Kubernetes, Terraform, AWS, cloud infrastructure, distributed systems, AI infrastructure, and Blockchain infrastructure**, gradually developing deeper expertise across these areas.
-
-I'm particularly interested in understanding and building the infrastructure behind **large-scale, distributed, and intelligent systems**.
-
-
-- **Computer Engineering Graduate**
-- Building & Breaking | Developing Secure & Scalable Software Systems
-- Continuous learning in **Cloud, DevOps, Kubernetes, Terraform & Infrastructure**
-- Exploring **Distributed Systems, AI Infrastructure & Blockchain Infrastructure**
-- Exploring **Blockchain + AI**, decentralized systems, and distributed compute
+- **Background:** B.Tech in Computer Engineering · Pune, India
+- **Core Focus:** Cloud-native infrastructure, CI/CD automation, and distributed systems
+- **Current Exploration:** Decentralized compute, blockchain node orchestration, and AI infrastructure
 
 ### Certifications in Progress
 
-
 - **Certified Kubernetes Administrator (CKA)**
-- **AWS Solutions Architect – Associate**
+- **AWS Certified Solutions Architect – Associate**
 
 ---
 
 ## Tech Stack
 
-**Infrastructure:** Linux · Docker · Kubernetes · Terraform · CI/CD
-
-**Cloud:** AWS · GCP
-
-**Programming:** Python · Go · C++
-
-**Exploring:** Blockchain Infrastructure · Distributed Systems · Decentralized AI
-
-
-
-# DevOps & Infrastructure Projects
-
-| Project | Description | Tech |
-|------|-------------|------|
-| **KubeChain** | Kubernetes-native Blockchain Node Operator & Health-Aware JSON-RPC Gateway | Kubernetes, Python, Kopf, FastAPI, Redis, Terraform |
-| **ZenithRank** | Ultra-fast, offline, CPU-bound semantic search and talent ranking engine | Python, ujson, scikit-learn, NumPy |
-| **Cloud-lint** | Offline CLI developer tool designed to validate, explain, and visualize cloud-init configurations before deployment | Python, Jinja2 |
-| **PyFlow** | High-Throughput Asynchronous Task Engine & API Gateway | Python, Docker, FastAPI, Javascript, Redis |
+- **Infrastructure & DevOps:** Linux · Docker · Kubernetes · Terraform · CI/CD
+- **Cloud Platforms:** AWS · GCP
+- **Languages:** Python · Go · C++
+- **Domains:** Distributed Systems · Blockchain Infrastructure · Decentralized AI
 
 ---
 
-# Key Repositories
+## DevOps & Infrastructure Projects
 
-
-- [KubeChain](https://github.com/aniruddhajadhav7/KubeChain)
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[KubeChain](https://github.com/aniruddhajadhav7/kubechain)** | Kubernetes-native blockchain node operator and health-aware JSON-RPC gateway | Kubernetes, Python, Kopf, FastAPI, Redis, Terraform |
+| **[PyFlow](https://github.com/aniruddhajadhav7/PyFlow)** | High-throughput asynchronous task engine and API gateway | Python, Docker, FastAPI, JavaScript, Redis |
+| **[Cloud-lint](https://github.com/aniruddhajadhav7/cloud-lint)** | Offline CLI tool to validate, explain, and visualize `cloud-init` configurations before deployment | Python, Jinja2 |
+| **[ZenithRank](https://github.com/aniruddhajadhav7/ZenithRank)** | Ultra-fast, offline, CPU-bound semantic search and talent ranking engine | Python, ujson, scikit-learn, NumPy |
 
