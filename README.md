@@ -16,8 +16,7 @@
 ## About Me
 
 **Computer Engineer** leveraging AI-augmented workflows to architect, automate, and ship reliable, scalable, and production-ready systems across software development and cloud infrastructure.
-
-Continuously deepening expertise across **Kubernetes, cloud Native technologies, distributed systems, AI and blockchain infrastructure** to engineer resilient, automated backends for large-scale workloads.
+Working across Kubernetes, cloud-native tooling, distributed systems, and AI/blockchain infrastructure to engineer resilient backends for high-throughput workloads.
 
 - **Background:** B.Tech in Computer Engineering · Pune, India
 - **Core Focus:** Cloud-native infrastructure, CI/CD automation, and distributed systems
