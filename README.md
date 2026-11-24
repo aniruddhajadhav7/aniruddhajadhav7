@@ -15,7 +15,7 @@
 
 ## About Me
 
-**Computer Engineer** focused on building reliable, scalable, and production-ready software systems at the intersection of software development, cloud infrastructure, and automation.
+**Computer Engineer** leveraging AI-augmented workflows to architect, automate, and ship reliable, scalable, and production-ready systems across software development and cloud infrastructure.
 
 Continuously deepening expertise across **Kubernetes, Terraform, AWS, distributed systems, AI infrastructure, and blockchain infrastructure** to engineer resilient, automated backends for large-scale workloads.
 
